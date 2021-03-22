@@ -1,0 +1,1 @@
+web: gunicorn booklist.wsgi --logg-file -
